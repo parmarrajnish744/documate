@@ -1,0 +1,175 @@
+{
+  "header": {
+    "title": "डॉक्यूमेट",
+    "greeting": "नमस्ते, {{name}}",
+    "login": "लॉग इन करें",
+    "register": "रजिस्टर करें",
+    "logout": "लॉग आउट",
+    "myApplications": "मेरे आवेदन"
+  },
+  "footer": {
+    "copyright": "डॉक्यूमेट। सर्वाधिकार सुरक्षित।",
+    "operatorLogin": "ऑपरेटर लॉगिन",
+    "adminLogin": "एडमिन लॉगिन"
+  },
+  "home": {
+    "mainHeading": "आपका डिजिटल सेवा केंद्र",
+    "subHeading": "सभी सरकारी और उपयोगिता आवेदनों के लिए वन-स्टॉप समाधान, पूरी तरह से ऑनलाइन।",
+    "applyNow": "अभी आवेदन करें"
+  },
+  "forms": {
+    "backToServices": "सेवाओं पर वापस जाएं",
+    "proceedToPay": "भुगतान के लिए आगे बढ़ें",
+    "processing": "प्रसंस्करण हो रहा है...",
+    "uploadsTitle": "दस्तावेज़ अपलोड करें",
+    "uploadsTitleRequired": "आवश्यक दस्तावेज़ अपलोड करें",
+    "otpMessage": "हमारे कार्यकारी ओटीपी सत्यापन के लिए आपसे संपर्क करेंगे।",
+    "aadhaarUpdate": {
+      "title": "आधार कार्ड पता अपडेट",
+      "titleNoDoc": "आधार पता बदलें (बिना दस्तावेज़)",
+      "nameLabel": "नाम (आधार के अनुसार)",
+      "aadhaarNumberLabel": "आधार संख्या",
+      "newAddressLabel": "नया पता",
+      "proofDocumentNameLabel": "नए पते का प्रमाण",
+      "uploadAadhaarLabel": "आधार कार्ड (नवीनतम)",
+      "uploadPhotoLabel": "पासपोर्ट आकार का फोटो",
+      "uploadProofLabel": "पते का प्रमाण दस्तावेज़",
+      "uploadProofHelpText": "(वैकल्पिक, यदि आवश्यक हो)",
+      "proofOptions": {
+        "voterId": "मतदाता पहचान पत्र (नाम और जन्मतिथि आधार से मेल खाना चाहिए)",
+        "electricityBill": "बिजली का बिल (नाम आधार से मेल खाना चाहिए)",
+        "bankStatement": "बैंक स्टेटमेंट (शाखा के हस्ताक्षर और मुहर के साथ)",
+        "gasBill": "गैस बिल (पिछले 3 महीने के भीतर)",
+        "uidaiFormat": "यूआईडीएआई मानक प्रारूप (सरपंच/सांसद/विधायक)",
+        "passport": "पासपोर्ट (नाम और जन्मतिथि आधार से मेल खाना चाहिए)",
+        "postpaidBill": "पोस्टपेड मोबाइल/ब्रॉडबैंड बिल"
+      }
+    }
+  },
+  "auth": {
+    "loginTitle": "अपने खाते में लॉग इन करें",
+    "registerTitle": "एक नया खाता बनाएं",
+    "emailLabel": "ईमेल",
+    "passwordLabel": "पासवर्ड",
+    "forgotPassword": "पासवर्ड भूल गए?",
+    "fullNameLabel": "पूरा नाम",
+    "loginButton": "लॉग इन करें",
+    "loggingInButton": "लॉग इन हो रहा है...",
+    "registerButton": "खाता बनाएं",
+    "creatingAccountButton": "खाता बन रहा है...",
+    "noAccountPrompt": "खाता नहीं है?",
+    "registerLink": "रजिस्टर करें",
+    "hasAccountPrompt": "पहले से ही एक खाता है?",
+    "loginLink": "यहां लॉग इन करें",
+    "loginError": "अमान्य क्रेडेंशियल। कृपया पुनः प्रयास करें।"
+  },
+  "payment": {
+    "title": "सुरक्षित भुगतान",
+    "backToForm": "फॉर्म पर वापस",
+    "serviceLabel": "सेवा",
+    "totalAmountLabel": "कुल राशि",
+    "payButton": "₹{{amount}} अभी भुगतान करें",
+    "processingButton": "प्रसंस्करण हो रहा है...",
+    "successTitle": "भुगतान सफल!",
+    "successMessage": "'{{serviceName}}' के लिए आपका आवेदन जमा कर दिया गया है।",
+    "returnHomeButton": "होम पर लौटें"
+  },
+  "myApplications": {
+    "title": "मेरे आवेदन",
+    "backToHome": "होम पर वापस जाएं",
+    "noApplications": "आपने अभी तक कोई आवेदन जमा नहीं किया है।",
+    "submittedOn": "{{date}} को प्रस्तुत किया गया",
+    "applicationId": "आवेदन आईडी",
+    "page": "पृष्ठ {{currentPage}} / {{totalPages}}",
+    "previous": "पिछला",
+    "next": "अगला",
+    "operatorNote": "ऑपरेटर नोट",
+    "statusValues": {
+      "pending": "लंबित",
+      "inprogress": "प्रगति में",
+      "completed": "पूर्ण",
+      "rejected": "अस्वीकृत",
+      "query": "प्रश्न"
+    }
+  },
+  "chatbot": {
+    "title": "डॉक्यूमेट सहायक",
+    "greeting": "नमस्ते! आज मैं आपकी कैसे मदद कर सकता हूँ?",
+    "inputPlaceholder": "अपना संदेश टाइप करें...",
+    "error": "क्षमा करें, मुझे कनेक्ट करने में समस्या हो रही है। कृपया बाद में पुनः प्रयास करें।"
+  },
+  "admin": {
+    "loginTitle": "एडमिन लॉगिन",
+    "dashboardTitle": "एडमिन डैशबोर्ड",
+    "servicesTab": "सेवाएं",
+    "usersTab": "उपयोगकर्ता",
+    "serviceManager": {
+      "title": "सेवा प्रबंधन",
+      "addService": "नई सेवा जोड़ें",
+      "idHeader": "ID",
+      "nameHeader": "सेवा का नाम",
+      "priceHeader": "कीमत",
+      "actionsHeader": "कार्रवाइयाँ",
+      "edit": "संपादित करें"
+    },
+    "userManager": {
+      "title": "उपयोगकर्ता प्रबंधन",
+      "nameHeader": "नाम",
+      "emailHeader": "ईमेल",
+      "roleHeader": "भूमिका",
+      "actionsHeader": "कार्रवाइयाँ",
+      "changeRole": "भूमिका बदलें"
+    },
+    "serviceForm": {
+      "addTitle": "नई सेवा जोड़ें",
+      "editTitle": "सेवा संपादित करें",
+      "idLabel": "सेवा ID (उदा., new-service)",
+      "priceLabel": "कीमत (INR)",
+      "iconPathLabel": "SVG आइकन पथ डेटा",
+      "save": "सेवा सहेजें",
+      "cancel": "रद्द करें"
+    }
+  },
+  "operator": {
+    "loginTitle": "ऑपरेटर लॉगिन",
+    "dashboardTitle": "ऑपरेटर डैशबोर्ड",
+    "filterByStatus": "स्थिति के अनुसार फ़िल्टर करें:",
+    "allStatuses": "सभी स्थितियाँ",
+    "searchPlaceholder": "ऐप आईडी या उपयोगकर्ता ईमेल द्वारा खोजें...",
+    "appIdHeader": "ऐप आईडी",
+    "userHeader": "उपयोगकर्ता",
+    "serviceHeader": "सेवा",
+    "submittedHeader": "प्रस्तुत",
+    "statusHeader": "स्थिति",
+    "actionsHeader": "कार्रवाइयाँ",
+    "updateStatus": "स्थिति अपडेट करें",
+    "updateStatusModal": {
+      "title": "आवेदन की स्थिति अपडेट करें",
+      "appId": "आवेदन आईडी",
+      "newStatusLabel": "नई स्थिति",
+      "noteLabel": "नोट (आवश्यक)",
+      "notePlaceholderCompleted": "संदर्भ संख्या दर्ज करें...",
+      "notePlaceholderRejected": "अस्वीकृति का कारण दर्ज करें...",
+      "notePlaceholderQuery": "उपयोगकर्ता के लिए प्रश्न दर्ज करें...",
+      "notePlaceholderDefault": "एक नोट दर्ज करें...",
+      "updateButton": "अपडेट करें",
+      "cancelButton": "रद्द करें"
+    }
+  },
+  "services": {
+    "aadhaar-update": { "name": "आधार कार्ड पता अपडेट" },
+    "aadhaar-update-no-doc": { "name": "आधार पता बदलें (बिना दस्तावेज़)" },
+    "pan-new": { "name": "पैन कार्ड नया आवेदन" },
+    "pan-update": { "name": "पैन कार्ड अपडेट" },
+    "pan-update-father": { "name": "पैन कार्ड अपडेट (पिता का नाम)" },
+    "pan-update-name-mismatch": { "name": "पैन कार्ड अपडेट (नाम बेमेल)" },
+    "voter-new-update": { "name": "मतदाता पहचान पत्र नया / अपडेट" },
+    "passport-new-update": { "name": "पासपोर्ट नया / अपडेट" },
+    "dl-new": { "name": "ड्राइवING लाइसेंस नया आवेदन" },
+    "dl-address": { "name": "ड्राइविंग लाइसेंस पता बदलें" },
+    "dl-renewal": { "name": "ड्राइविंग लाइसेंस नवीनीकरण" },
+    "dl-renewal-address": { "name": "डीएल नवीनीकरण + पता बदलें" },
+    "gas-new-single": { "name": "इंडेन गैस नया कनेक्शन (एकल)" },
+    "gas-new-double": { "name": "इंडेन गैस नया कनेक्शन (डबल)" }
+  }
+}

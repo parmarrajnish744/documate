@@ -1,0 +1,175 @@
+{
+  "header": {
+    "title": "ડોક્યુમેટ",
+    "greeting": "સ્વાગત છે, {{name}}",
+    "login": "લોગિન",
+    "register": "રજીસ્ટર",
+    "logout": "લોગઆઉટ",
+    "myApplications": "મારી અરજીઓ"
+  },
+  "footer": {
+    "copyright": "ડોક્યુમેટ. સર્વાધિકાર સુરક્ષિત.",
+    "operatorLogin": "ઓપરેટર લોગિન",
+    "adminLogin": "એડમિન લોગિન"
+  },
+  "home": {
+    "mainHeading": "તમારું ડિજિટલ સેવા કેન્દ્ર",
+    "subHeading": "તમામ સરકારી અને ઉપયોગિતા અરજીઓ માટે વન-સ્ટોપ સોલ્યુશન્સ, સંપૂર્ણપણે ઓનલાઈન.",
+    "applyNow": "હવે અરજી કરો"
+  },
+  "forms": {
+    "backToServices": "સેવાઓ પર પાછા જાઓ",
+    "proceedToPay": "ચુકવણી કરવા આગળ વધો",
+    "processing": "પ્રક્રિયા ચાલી રહી છે...",
+    "uploadsTitle": "દસ્તાવેજો અપલોડ કરો",
+    "uploadsTitleRequired": "જરૂરી દસ્તાવેજો અપલોડ કરો",
+    "otpMessage": "અમારા અધિકારી OTP ચકાસણી માટે તમારો સંપર્ક કરશે.",
+    "aadhaarUpdate": {
+      "title": "આધાર કાર્ડ સરનામું અપડેટ",
+      "titleNoDoc": "આધાર સરનામું ફેરફાર (દસ્તાવેજ વિના)",
+      "nameLabel": "નામ (આધાર મુજબ)",
+      "aadhaarNumberLabel": "આધાર નંબર",
+      "newAddressLabel": "નવું સરનામું",
+      "proofDocumentNameLabel": "નવા સરનામાનો પુરાવો",
+      "uploadAadhaarLabel": "આધાર કાર્ડ (નવીનતમ)",
+      "uploadPhotoLabel": "પાસપોર્ટ સાઇઝ ફોટો",
+      "uploadProofLabel": "સરનામાનો પુરાવો",
+      "uploadProofHelpText": "(વૈકલ્પિક, જો જરૂરી હોય તો)",
+      "proofOptions": {
+        "voterId": "મતદાર ઓળખપત્ર (નામ અને જન્મતારીખ આધાર સાથે મેળ ખાતી હોવી જોઈએ)",
+        "electricityBill": "વીજળીનું બિલ (નામ આધાર સાથે મેળ ખાતું હોવું જોઈએ)",
+        "bankStatement": "બેંક સ્ટેટમેન્ટ (શાખાની સહી અને સ્ટેમ્પ સાથે)",
+        "gasBill": "ગેસ બિલ (છેલ્લા 3 મહિનાનું)",
+        "uidaiFormat": "UIDAI સ્ટાન્ડર્ડ ફોર્મેટ (સરપંચ/MP/MLA)",
+        "passport": "પાસપોર્ટ (નામ અને જન્મતારીખ આધાર સાથે મેળ ખાતી હોવી જોઈએ)",
+        "postpaidBill": "પોસ્ટપેડ મોબાઈલ/બ્રોડબેન્ડ બિલ"
+      }
+    }
+  },
+  "auth": {
+    "loginTitle": "તમારા એકાઉન્ટમાં લોગિન કરો",
+    "registerTitle": "નવું એકાઉન્ટ બનાવો",
+    "emailLabel": "ઇમેઇલ",
+    "passwordLabel": "પાસવર્ડ",
+    "forgotPassword": "પાસવર્ડ ભૂલી ગયા?",
+    "fullNameLabel": "પૂરું નામ",
+    "loginButton": "લોગિન",
+    "loggingInButton": "લોગિન થઈ રહ્યું છે...",
+    "registerButton": "એકાઉન્ટ બનાવો",
+    "creatingAccountButton": "એકાઉન્ટ બની રહ્યું છે...",
+    "noAccountPrompt": "એકાઉન્ટ નથી?",
+    "registerLink": "રજીસ્ટર કરો",
+    "hasAccountPrompt": "પહેલેથી જ એકાઉન્ટ છે?",
+    "loginLink": "અહીં લોગિન કરો",
+    "loginError": "અમાન્ય ઓળખપત્ર. કૃપા કરીને ફરી પ્રયાસ કરો."
+  },
+  "payment": {
+    "title": "સુરક્ષિત ચુકવણી",
+    "backToForm": "ફોર્મ પર પાછા જાઓ",
+    "serviceLabel": "સેવા",
+    "totalAmountLabel": "કુલ રકમ",
+    "payButton": "₹{{amount}} હવે ચૂકવો",
+    "processingButton": "પ્રક્રિયા ચાલી રહી છે...",
+    "successTitle": "ચુકવણી સફળ!",
+    "successMessage": "'{{serviceName}}' માટે તમારી અરજી સબમિટ કરવામાં આવી છે.",
+    "returnHomeButton": "હોમ પર પાછા ફરો"
+  },
+  "myApplications": {
+    "title": "મારી અરજીઓ",
+    "backToHome": "હોમ પર પાછા જાઓ",
+    "noApplications": "તમે હજી સુધી કોઈ અરજી સબમિટ કરી નથી.",
+    "submittedOn": "{{date}} ના રોજ સબમિટ કરેલ",
+    "applicationId": "અરજી ID",
+    "page": "પૃષ્ઠ {{currentPage}} / {{totalPages}}",
+    "previous": "પાછલું",
+    "next": "આગળ",
+    "operatorNote": "ઓપરેટર નોંધ",
+    "statusValues": {
+      "pending": "બાકી",
+      "inprogress": "પ્રક્રિયામાં",
+      "completed": "પૂર્ણ",
+      "rejected": "નકારી",
+      "query": "પૂછપરછ"
+    }
+  },
+  "chatbot": {
+    "title": "ડોક્યુમેટ સહાયક",
+    "greeting": "નમસ્કાર! આજે હું તમારી કેવી રીતે મદદ કરી શકું?",
+    "inputPlaceholder": "તમારો સંદેશ લખો...",
+    "error": "માફ કરશો, મને કનેક્ટ કરવામાં સમસ્યા આવી રહી છે. કૃપા કરીને પછીથી ફરી પ્રયાસ કરો."
+  },
+  "admin": {
+    "loginTitle": "એડમિન લોગિન",
+    "dashboardTitle": "એડમિન ડેશબોર્ડ",
+    "servicesTab": "સેવાઓ",
+    "usersTab": "વપરાશકર્તાઓ",
+    "serviceManager": {
+      "title": "સેવા સંચાલન",
+      "addService": "નવી સેવા ઉમેરો",
+      "idHeader": "ID",
+      "nameHeader": "સેવાનું નામ",
+      "priceHeader": "કિંમત",
+      "actionsHeader": "ક્રિયાઓ",
+      "edit": "સંપાદિત કરો"
+    },
+    "userManager": {
+      "title": "વપરાશકર્તા સંચાલન",
+      "nameHeader": "નામ",
+      "emailHeader": "ઈમેલ",
+      "roleHeader": "ભૂમિકા",
+      "actionsHeader": "ક્રિયાઓ",
+      "changeRole": "ભૂમિકા બદલો"
+    },
+    "serviceForm": {
+      "addTitle": "નવી સેવા ઉમેરો",
+      "editTitle": "સેવા સંપાદિત કરો",
+      "idLabel": "સેવા ID (દા.ત., new-service)",
+      "priceLabel": "કિંમત (INR)",
+      "iconPathLabel": "SVG આઇકન પાથ ડેટા",
+      "save": "સેવા સાચવો",
+      "cancel": "રદ કરો"
+    }
+  },
+  "operator": {
+    "loginTitle": "ઓપરેટર લોગિન",
+    "dashboardTitle": "ઓપરેટર ડેશબોર્ડ",
+    "filterByStatus": "સ્થિતિ દ્વારા ફિલ્ટર કરો:",
+    "allStatuses": "બધી સ્થિતિઓ",
+    "searchPlaceholder": "એપ્લિકેશન ID અથવા વપરાશકર્તા ઇમેઇલ દ્વારા શોધો...",
+    "appIdHeader": "એપ્લિકેશન ID",
+    "userHeader": "વપરાશકર્તા",
+    "serviceHeader": "સેવા",
+    "submittedHeader": "સબમિટ કરેલ",
+    "statusHeader": "સ્થિતિ",
+    "actionsHeader": "ક્રિયાઓ",
+    "updateStatus": "સ્થિતિ અપડેટ કરો",
+    "updateStatusModal": {
+      "title": "અરજીની સ્થિતિ અપડેટ કરો",
+      "appId": "અરજી ID",
+      "newStatusLabel": "નવી સ્થિતિ",
+      "noteLabel": "નોંધ (જરૂરી)",
+      "notePlaceholderCompleted": "સંદર્ભ નંબર દાખલ કરો...",
+      "notePlaceholderRejected": "અસ્વીકારનું કારણ દાખલ કરો...",
+      "notePlaceholderQuery": "વપરાશકર્તા માટે ક્વેરી દાખલ કરો...",
+      "notePlaceholderDefault": "એક નોંધ દાખલ કરો...",
+      "updateButton": "અપડેટ કરો",
+      "cancelButton": "રદ કરો"
+    }
+  },
+  "services": {
+    "aadhaar-update": { "name": "આધાર કાર્ડ સરનામું અપડેટ" },
+    "aadhaar-update-no-doc": { "name": "આધાર સરનામું ફેરફાર (દસ્તાવેજ વિના)" },
+    "pan-new": { "name": "પાન કાર્ડ નવી અરજી" },
+    "pan-update": { "name": "પાન કાર્ડ અપડેટ" },
+    "pan-update-father": { "name": "પાન કાર્ડ અપડેટ (પિતાનું નામ)" },
+    "pan-update-name-mismatch": { "name": "પાન કાર્ડ અપડેટ (નામમાં તફાવત)" },
+    "voter-new-update": { "name": "મતદાર ઓળખપત્ર નવું / અપડેટ" },
+    "passport-new-update": { "name": "પાસપોર્ટ નવું / અપડેટ" },
+    "dl-new": { "name": "ડ્રાઇવિંગ લાઇસન્સ નવી અરજી" },
+    "dl-address": { "name": "ડ્રાઇવિંગ લાઇસન્સ સરનામું ફેરફાર" },
+    "dl-renewal": { "name": "ડ્રાઇવિંગ લાઇસન્સ રિન્યુઅલ" },
+    "dl-renewal-address": { "name": "ડીએલ રિન્યુઅલ + સરનામું ફેરફાર" },
+    "gas-new-single": { "name": "ઇન્ડેન ગેસ નવું કનેક્શન (સિંગલ)" },
+    "gas-new-double": { "name": "ઇન્ડેન ગેસ નવું કનેક્શન (ડબલ)" }
+  }
+}
